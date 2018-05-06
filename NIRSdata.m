@@ -1,6 +1,5 @@
 classdef NIRSdata
-    %UNTITLED2 Summary of this class goes here
-    %   Detailed explanation goes here
+    %commentare al più presto 
     
     properties
        subject = struct('name', [],...
